@@ -1,4 +1,6 @@
-# 🚀 Neurathon 2025: Advancing Optical Coherence Tomography (OCT) Image Analysis  
+# 🚀 Neurathon 2025
+# 🧠 Team: DeepThinker
+# 🎯Topic: Advancing Optical Coherence Tomography (OCT) Image Analysis  
 
 ## 👨‍💻 Team Members  
 - **Nilabh Sarmah** (2312079)  
@@ -15,6 +17,8 @@
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="100">
   <img src="https://img.shields.io/badge/CNN-%234285F4.svg?style=for-the-badge">
   <img src="https://img.shields.io/badge/RNN-%237D3CC8.svg?style=for-the-badge">
 </p>  

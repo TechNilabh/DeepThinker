@@ -40,8 +40,9 @@
 ### 🔹 **2. Super-Resolution Enhancement using SRGAN + CNN**  
 📌 **Goal:** Improve OCT image clarity by converting low-res images to high-res using GANs.  
 
-🖼️ **Before & After Comparison:**  
-*_(Insert image showing an original low-res and super-resolved OCT image.)_*
+🖼️ **Before & After Comparison:**
+**Sample Image:**
+![OCT Scan](images/esrgan.jpg)
 
 ---
 
@@ -59,14 +60,15 @@
 ### 🔹 **4. Model Architecture Design (Figma + PlantUML)**  
 📌 **Goal:** Create a structured UML diagram for clear visualization of our pipeline.  
 
-📎 **[View UML Diagram](#)** _(Insert link to UML file)_  
+📎 **[View UML Diagram](#)**
+
 
 ---
 
 ### 🔹 **5. Deployment using Docker & FastAPI + Flask**  
 📌 **Goal:** Deploy a lightweight & robust web interface for easy access to the model.  
   
-🚀 **Live Demo:** **[Click Here](#)** _(Insert deployment link)_  
+🚀 **Live Demo:** **[Click Here](#)**
 
 ---
 
@@ -83,7 +85,5 @@ This project was an incredible journey filled with challenges, innovations, and 
 We hope our work receives appreciation and contributes to real-world medical advancements! 🚀🎯  
 
 ---
-  
-🔗 **GitHub Repository**: [Insert Link Here]  
-📧 **Contact**: Nilabh & Himanshu - [Insert Contact Info]  
+ 
 

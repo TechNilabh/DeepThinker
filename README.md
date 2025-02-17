@@ -31,8 +31,10 @@
 📌 **Goal:** Remove noise artifacts while preserving retinal layer structures.  
 **Architecture:** U-Net-based self-supervised denoising technique.  
   
-🖼️ **Before & After Comparison:**  
-*
+🖼️ **Before & After Denoising:**  
+![OCT Scan](images/denoise.jpg)
+🖼️ **Model Summary:**  
+![OCT Scan](images/WhatsApp%20Image%202025-02-17%20at%2010.41.31%20PM.jpeg)
 ---
 
 ### 🔹 **2. Super-Resolution Enhancement using SRGAN + CNN**  

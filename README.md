@@ -1,115 +1,84 @@
-#Team: DeepThinker
-Neurathon - ML Hackathon Submission
+# 🚀 Neurathon 2025: Advancing Optical Coherence Tomography (OCT) Image Analysis  
 
-#🚀 Project Title: Advancing Optical Coherence Tomography (OCT) Image Analysis
+## 👨‍💻 Team Members  
+- **Nilabh Sarmah** (2312079)  
+- **Himanshu Dixit** (2312041)  
 
-🏆 Participants:
+## 🎯 Problem Statement 3  
+**Objective:** Enhance OCT B-scans for improved diagnostic reliability while ensuring structural integrity, generating high-resolution images, and classifying 3D OCT volumes into distinct categories.  
 
-Nilabh Sarmah (2312079)
+---
 
-Himanshu Dixit (2312041)
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/CNN-%234285F4.svg?style=for-the-badge">
+  <img src="https://img.shields.io/badge/RNN-%237D3CC8.svg?style=for-the-badge">
+</p>  
 
-🔬 Problem Statement 3: OCT Image Analysis
+---
 
-Key Objectives:
+## 🏆 Our Approach  
 
-✅ Remove noise artifacts from OCT B-scans to enhance image clarity and diagnostic reliability.✅ Maintain the structural integrity of retinal layers during the de-noising process.✅ Generate high-resolution OCT B-scans from low-resolution images to combat motion artifacts and improve diagnostic utility.✅ Preserve fine details critical for early disease detection.✅ Classify 3D OCT volumes into:
+### 🔹 **1. Image Denoising using Noise2Self & U-Net**  
+📌 **Goal:** Remove noise artifacts while preserving retinal layer structures.  
+**Architecture:** U-Net-based self-supervised denoising technique.  
+  
+🖼️ **Before & After Comparison:**  
+*_(Insert image showing noisy, denoised, and original OCT scans side by side.)_*
 
-Healthy individuals 🏥
+---
 
-Diabetic patients with Diabetic Macular Edema (DME) 🩺
+### 🔹 **2. Super-Resolution Enhancement using SRGAN + CNN**  
+📌 **Goal:** Improve OCT image clarity by converting low-res images to high-res using GANs.  
 
-Non-diabetic patients with other ocular diseases 👁️
-✅ Achieve high classification accuracy with interpretable results.✅ Develop an end-to-end automated pipeline for OCT image enhancement and disease classification to assist ophthalmologists.
+🖼️ **Before & After Comparison:**  
+*_(Insert image showing an original low-res and super-resolved OCT image.)_*
 
-🛠️ Tech Stack
+---
 
-Technology
+### 🔹 **3. Disease Classification using VGG16 + ResNet Hybrid Model**  
+📌 **Goal:** Classify 3D OCT scans into:  
+✅ Healthy Individuals  
+✅ Diabetic Macular Edema (DME) Patients  
+✅ Non-diabetic Patients with Other Ocular Diseases  
 
-Description
+🖼️ **Model Predictions:**  
+*_(Insert images of Normal, DME, DRUSEN, and CNV retinas with their names below.)_*
 
- TensorFlow
+---
 
-Deep Learning Framework
+### 🔹 **4. Model Architecture Design (Figma + PlantUML)**  
+📌 **Goal:** Create a structured UML diagram for clear visualization of our pipeline.  
 
- PyTorch
+📎 **[View UML Diagram](#)** _(Insert link to UML file)_  
 
-Model Development
+---
 
- Docker
+### 🔹 **5. Deployment using Docker & FastAPI + Flask**  
+📌 **Goal:** Deploy a lightweight & robust web interface for easy access to the model.  
+  
+🚀 **Live Demo:** **[Click Here](#)** _(Insert deployment link)_  
 
-Containerization
+---
 
- FASTAPI
+## 📄 Research Papers & References  
+- **Noise2Self: Blind Denoising by Self-Supervision** - [Read More](https://arxiv.org/abs/1811.10980)  
+- **SRGAN: Super-Resolution Using GANs** - [Read More](https://arxiv.org/abs/1609.04802)  
+- **VGG16 & ResNet Hybrid Models in Medical Imaging** - [Read More](https://arxiv.org/) _(Insert relevant paper)_  
 
-Model Deployment API
+---
 
-🧠 CNN
+## 💡 Conclusion  
+This project was an incredible journey filled with challenges, innovations, and discoveries. We aimed to push the boundaries of OCT image analysis, ensuring clearer, high-resolution images and accurate disease detection.  
 
-Convolutional Neural Networks
+We hope our work receives appreciation and contributes to real-world medical advancements! 🚀🎯  
 
-🔄 RNN
+---
+  
+🔗 **GitHub Repository**: [Insert Link Here]  
+📧 **Contact**: Nilabh & Himanshu - [Insert Contact Info]  
 
-Recurrent Neural Networks
-
-📌 Our Approach
-
-1️⃣ Denoising using Noise2Self & U-Net 🏗️
-
-Applied Noise2Self for self-supervised denoising.
-
-Integrated U-Net architecture to enhance image quality.
-
-🔽 Placeholder for image comparison (Noisy vs. Denoised vs. Original)
-
-2️⃣ Super Resolution using SRGAN + CNN 🎚️
-
-Implemented SRGAN (Super-Resolution Generative Adversarial Network) to upsample OCT images.
-
-Improved diagnostic utility by enhancing fine details.
-
-🔽 Placeholder for image comparison (Before vs. After Super Resolution)
-
-3️⃣ OCT Image Classification using VGG16 + ResNet Hybrid Model 🏥
-
-Designed a hybrid deep learning model combining:
-
-VGG16 for feature extraction.
-
-ResNet50 for deep representation learning.
-
-Classified images into: Healthy, DME, and Other Ocular Diseases.
-
-🔽 Placeholder for sample OCT images with labels (Normal, DME, DRUSEN, CNV)
-
-4️⃣ Model Architecture & UML Design 🎨
-
-Used Figma and PlantUML to design the system architecture.
-
-UML Diagram showcasing data flow and model pipeline.
-
-🔽 Link to UML Design (Placeholder)
-
-5️⃣ Deployment with Docker, FastAPI, Flask & HTML 🚀
-
-Deployed the end-to-end system using Docker containers.
-
-Built a FastAPI + Flask backend for handling API requests.
-
-Created a minimalistic HTML UI for smooth user interaction.
-
-🔽 Deployed Model Link (Placeholder)
-
-📄 Research Papers & References 📚
-
-Paper 1: Noise2Self for Self-Supervised Denoising
-
-Paper 2: SRGAN for Image Super-Resolution
-
-Paper 3: Hybrid CNN Models for Medical Image Classification
-
-🎉 Conclusion
-
-Throughout Neurathon, we poured in relentless effort, working on cutting-edge AI techniques to enhance and classify OCT images. Our model ensures high-quality image restoration and precise disease classification, paving the way for better ophthalmic diagnostics.
-
-We hope our solution is well-received, and we look forward to valuable feedback from the judges! 🤞✨

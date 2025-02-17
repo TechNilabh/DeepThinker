@@ -21,6 +21,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="100">
   <img src="https://img.shields.io/badge/CNN-%234285F4.svg?style=for-the-badge">
   <img src="https://img.shields.io/badge/RNN-%237D3CC8.svg?style=for-the-badge">
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 </p>  
 
 ---
@@ -32,8 +33,7 @@
 **Architecture:** U-Net-based self-supervised denoising technique.  
   
 🖼️ **Before & After Comparison:**  
-*_(Insert image showing noisy, denoised, and original OCT scans side by side.)_*
-
+*
 ---
 
 ### 🔹 **2. Super-Resolution Enhancement using SRGAN + CNN**  

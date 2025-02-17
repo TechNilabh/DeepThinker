@@ -10,7 +10,9 @@
 **Objective:** Enhance OCT B-scans for improved diagnostic reliability while ensuring structural integrity, generating high-resolution images, and classifying 3D OCT volumes into distinct categories.  
 
 ---
-
+## 📈 Project Colab Links: 
+- Link 1  
+- Link 2  
 ## 🛠️ Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white">
@@ -75,7 +77,7 @@
 ## 📄 Research Papers & References  
 - **Noise2Self: Blind Denoising by Self-Supervision** - [Read More](https://arxiv.org/abs/1811.10980)  
 - **SRGAN: Super-Resolution Using GANs** - [Read More](https://arxiv.org/abs/1609.04802)  
-- **VGG16 & ResNet Hybrid Models in Medical Imaging** - [Read More](https://arxiv.org/) _(Insert relevant paper)_  
+- **VGG16 & ResNet Hybrid Models in Medical Imaging** - [Read More](https://arxiv.org/) 
 
 ---
 

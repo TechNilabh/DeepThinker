@@ -10,8 +10,8 @@
 **Objective:** Enhance OCT B-scans for improved diagnostic reliability while ensuring structural integrity, generating high-resolution images, and classifying 3D OCT volumes into distinct categories.  
 
 ---
-## 📈 Project Colab Links: 
-- Link 1  
+## 📈 Project Kaggle Links: 
+- https://www.kaggle.com/code/himanshuranjandixit/oct-classifier-model
 - Link 2  
 ## 🛠️ Tech Stack  
 <p align="center">

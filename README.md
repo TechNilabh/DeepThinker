@@ -59,7 +59,7 @@
 
 ---
 
-### 🔹 **4. Model Architecture Design (Figma + PlantUML)**  
+### 🔹 **4. Model Architecture Design (PlantUML)**  
 📌 **Goal:** Create a structured UML diagram for clear visualization of our pipeline.  
 
 📎 **[View UML Diagram] Click on the link below 👇🏻(#)**

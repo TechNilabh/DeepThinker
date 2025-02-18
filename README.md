@@ -56,7 +56,7 @@
 
 🖼️ **Model Predictions:**  
 
-<p >
+<p align = "center">
   <img src="images/Normal.jpeg" alt="Normal" width="200">
   <img src="images/Drusen.jpeg" alt="DRUSEN" width="200">
   <img src="images/Dme.jpeg" alt="DME" width="200">
@@ -64,10 +64,10 @@
 </p>
 
 <p align="center">
-  <b>Normal</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Normal</b> &nbsp;&nbsp;
   <b>DRUSEN</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>DME</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>CNV</b>
+  <b>CNV</b>  &nbsp;&nbsp;&nbsp;
 </p>
 
 

@@ -55,9 +55,8 @@
 ✅ Non-diabetic Patients with Other Ocular Diseases  
 
 🖼️ **Model Predictions:**  
-🖼️ **Model Predictions:**  
 
-<p align="center">
+<p >
   <img src="images/Normal.jpeg" alt="Normal" width="200">
   <img src="images/Drusen.jpeg" alt="DRUSEN" width="200">
   <img src="images/Dme.jpeg" alt="DME" width="200">

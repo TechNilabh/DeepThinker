@@ -55,7 +55,22 @@
 ✅ Non-diabetic Patients with Other Ocular Diseases  
 
 🖼️ **Model Predictions:**  
-*_(Insert images of Normal, DME, DRUSEN, and CNV retinas with their names below.)_*
+🖼️ **Model Predictions:**  
+
+<p align="center">
+  <img src="images/Normal.jpeg" alt="Normal" width="200">
+  <img src="images/Drusen.jpeg" alt="DRUSEN" width="200">
+  <img src="images/Dme.jpeg" alt="DME" width="200">
+  <img src="images/Cnv.jpeg" alt="CNV" width="200">
+</p>
+
+<p align="center">
+  <b>Normal</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>DRUSEN</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>DME</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>CNV</b>
+</p>
+
 
 ---
 

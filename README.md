@@ -62,7 +62,8 @@
 ### 🔹 **4. Model Architecture Design (Figma + PlantUML)**  
 📌 **Goal:** Create a structured UML diagram for clear visualization of our pipeline.  
 
-📎 **[View UML Diagram](#)**
+📎 **[View UML Diagram] Click on the link below 👇🏻(#)**
+https://img.plantuml.biz/plantuml/png/bLMnRjim4Dq5w1y8BrLGP4Y73XwAf3O2U2XQn0Kw2WnvaedGfCeZ7HX5_xqdofOfHNBGnPAFzzwzUtU4xj5pvyDUvrcUVM1hg9G1jh8Es6RFQthL714mpqJxmhwlVdRnFtd6s4V7NqiKt2oxx1W3i-D6W1mU_6qBT1nhC5QXClKtAq6Vc7ZJw6FP7i0d15qL8-gRj4IN70pu-RIau3Oqu9u0hGvUMVEsBBgQcq96NKFXatpH4rKfmQVf7219AmzrVVUvcBA3MDUAryQYmg4rv-Y9Zof0RTrnoRRUaMDTq9fAaLW1n4cJMh97RRa_4VL3VFYnOTn8-jjeUzo3yUDXKiOMt469ypW3PN9PgbPZKIaD5xraNsCDTlxNr9qOcD3s7BJ78c9B9S-APrjzfD-NLcDNcaoI6eZcTm3q7SrKzPI1etz3mF5en7_HhAru0RUondEopPteP7IjtBV3BMvYY0OO5Q8DJW2sqQ7Zl-2PROm7Lt41PteAzh6XpS_1UqihyJK-kweA6ysFlPloR5tY8lLni4gEYp-1ZfF0dMh8wVwYBkuMxFRsItoERjwIBPHfWb_asUWa1KtU7eBQu3liP4BAC7LVKeAfyu7i_bQag3nBzlTwbu6MVZ6RFzVWTTHCKzT1_TA_dtbQxaiY3McqgMb-GaEGRdjRr3LCgcRF3MtBkuYBgWiWpmOxFgzAjJbSU6IlokyYyXwCZ5-VVm00
 
 
 ---
